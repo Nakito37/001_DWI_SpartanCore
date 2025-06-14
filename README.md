@@ -12,10 +12,12 @@
   - [**Créditos**](#créditos)
 
 ## **Descripción y uso**
-
+#### El diseño de este proyecto fue elaborado con la finalidad de demostrar al público la importancia de la salud física en la vida cotidiana, así como establecer orientación a las personas con nivel de principiantes hasta avanzados sobre rutinas de entrenamiento utilizando equipo de ejercicios o usando los recursos presentes en su entorno.
+#### _Ver más información en la documentación oficial: SC-00-Docs/001-DWI-SPARTANCORE Documentacion.docx_
 
 ## **Estructura general**
-
+#### Este proyecto utiliza herramientas de código abierto para el diseño, estructura y funcionalidad del sitio WEB
+#### _Ver más información en la documentación oficial: SC-00-Docs/001-DWI-SPARTANCORE Documentacion.docx_
 
 ## **Primeros pasos**
 
